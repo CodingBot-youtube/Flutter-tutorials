@@ -1,0 +1,7 @@
+Resources
+
+welcome
+'https://assets10.lottiefiles.com/packages/lf20_DYkRIb.json'
+
+login
+'https://assets4.lottiefiles.com/packages/lf20_wfkxpgpa.json'
